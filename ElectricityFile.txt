@@ -1,0 +1,527 @@
+77
+
+5
+32
+Road-4A
+1
+Belal-Hossain/4A/844.5103766758926/true
+338.0 409.0
+
+5
+31
+Road-4A
+2
+Ali-Shahzad/2A/197.3453050530219/true
+Saif-Jasim/3A/252.4652233669886/true
+337.0 388.0
+
+5
+30
+Road-4A
+1
+Moushumi-Jahan/5B/166.36605599448583/true
+337.0 359.0
+
+5
+29
+Road-4A
+1
+Tees-Maar-Khan/4B/346.9098914503557/true
+336.0 341.0
+
+5
+28
+Road-4A
+1
+Mustafizur-Rahman/5A/527.5000377091945/true
+337.0 325.0
+
+5
+27
+Road-4A
+1
+Mostakim-Hossain/4A/390.1030825496337/false
+315.0 406.0
+
+5
+26
+Road-5
+1
+Majid-Sharkar/3B/558.9773482082181/true
+314.0 388.0
+
+5
+25
+Road-5
+1
+Abdullah-Al-Hamim/3A/255.95936496217263/true
+314.0 368.0
+
+5
+24
+Road-5
+1
+Lamiya-Khan/5C/134.92986979478687/true
+315.0 348.0
+
+5
+23
+Road-4A
+1
+Sakibul-Hasan/6A/545.5119364895951/true
+314.0 331.0
+
+5
+22
+Road-5
+1
+Sharif-Hussain/5B/415.4663252792904/true
+313.0 312.0
+
+5
+21
+Road-5
+1
+John-Abraham/6B/657.7281465256973/true
+313.0 296.0
+
+5
+20
+Road-5
+1
+Hero-Alom/3C/560.3888850520793/true
+338.0 302.0
+
+5
+19
+Road-5
+1
+Tanjim-Tarannum/3B/435.285864330126/true
+357.0 300.0
+
+5
+18
+Road-5
+1
+Nusaiba-Tashrif/2A/140.37789497353256/true
+376.0 300.0
+
+5
+17
+Road-5
+1
+Taha-Shahid/2B/142.25697195583808/true
+393.0 298.0
+
+5
+16
+Road-1A
+1
+Zohaib-Siddique/4B/747.2833794186374/true
+390.0 273.0
+
+5
+15
+Road-1A
+1
+Mustaneer-Hossain/5A/334.87353662465364/true
+369.0 274.0
+
+5
+14
+Road-1A
+0
+342.0 275.0
+
+5
+13
+Road-1A
+1
+Mostansir-Hossain/3A/315.88530773907996/false
+318.0 275.0
+
+5
+12
+Road-1A
+0
+289.0 276.0
+
+5
+11
+Road-1A
+0
+268.0 276.0
+
+5
+10
+Road-1A
+1
+Raspberry-PI/4B/25.140302302812174/true
+246.0 277.0
+
+5
+9
+Road-1A
+0
+289.0 304.0
+
+5
+8
+Road-1A
+0
+269.0 303.0
+
+5
+7
+Road-1A
+0
+248.0 304.0
+
+5
+6
+Road-9A
+0
+218.0 311.0
+
+5
+5
+Road-9A
+0
+194.0 311.0
+
+5
+4
+Road-9A
+0
+171.0 311.0
+
+5
+3
+Road-9A
+0
+146.0 312.0
+
+5
+2
+Road-9A
+0
+121.0 316.0
+
+5
+1
+Road-9A
+0
+99.0 299.0
+
+5
+33
+Road-9B
+0
+288.0 332.0
+
+5
+34
+Road-9B
+0
+261.0 332.0
+
+5
+35
+Road-9B
+0
+229.0 333.0
+
+5
+36
+Road-9B
+0
+206.0 335.0
+
+5
+37
+Road-9B
+0
+164.0 338.0
+
+5
+38
+Road-9B
+0
+134.0 338.0
+
+5
+39
+Road-9C
+0
+194.0 358.0
+
+5
+40
+Road-9C
+0
+165.0 361.0
+
+5
+41
+Road-9C
+0
+140.0 360.0
+
+5
+42
+Road-9D
+0
+154.0 383.0
+
+5
+43
+Sarwar
+0
+237.0 361.0
+
+5
+44
+Sarawar
+0
+185.0 394.0
+
+3
+1
+Road-18
+2
+Tahmid-Digonto/2A/582.9920373671634/true
+Nahin-Islam/3A/538.1878099468346/true
+83.0 411.0
+
+3
+2
+Road-18
+2
+Raida-Raihan/2A/302.502518975536/true
+Washik-Rahman/3A/735.1407019657199/true
+105.0 414.0
+
+3
+3
+Road-18
+2
+Syeda-Toishi/1A/129.5078477284282/true
+Syed-Ananjan/1B/240.9025965135214/true
+84.0 382.0
+
+3
+4
+Road-18
+2
+Shihab-Uddin/2A/606.858885151895/true
+Sakibul-Alam/5B/498.15628491970375/true
+83.0 358.0
+
+3
+5
+Road-18
+2
+Rafay-Rizwan/3A/137.50972344744173/true
+Hassan-Raza/5A/447.96533663736653/true
+83.0 334.0
+
+3
+6
+Road-18
+1
+Sammy-Sarwar/2A/143.77561400680264/true
+82.0 310.0
+
+3
+7
+Road-18
+2
+Moiz-Ahmed/1A/465.1787340744145/true
+Robin/9A/976.9139548013077/true
+81.0 286.0
+
+3
+8
+Road-18
+1
+Hamad-Hassan/2A/353.7605679843826/true
+53.0 410.0
+
+3
+27
+Road-7
+1
+Anbar-Kabir/3A/436.7173384108423/true
+147.0 218.0
+
+3
+43
+Road-6
+1
+Priyanka-Kapoor/4A/455.72380112081186/true
+282.0 160.0
+
+3
+16
+Road-18
+1
+Sumaita-Khan/1A/253.89843442562884/true
+77.0 160.0
+
+3
+20
+Road-19
+1
+Azmayeen-Ahmed/3A/236.69802689882852/true
+79.0 94.0
+
+3
+40
+Road
+2
+Tahmid-Khan/1A/262.3614488973122/true
+Mashrura-Ali-Khan/2A/123.19612007360824/true
+277.0 83.0
+
+14
+1
+Road-1
+1
+Rafed-Shareef/1A/236.63339504627953/true
+294.0 413.0
+
+14
+2
+Road-1
+1
+Shahrukh-Khan/3A/143.6195463624445/true
+325.0 412.0
+
+14
+3
+Road-1
+2
+Romeo/1A/240.01399263982992/true
+Juliet/1B/239.90719740718637/true
+349.0 412.0
+
+3
+69
+12e1
+2
+eweq/3e/344.4770651258423/true
+Tom-Hardy/2A/123.21001048039443/true
+240.0 265.0
+
+14
+17
+Road-5
+1
+Raihan-Abdin/2A/236.45043538933044/true
+347.0 274.0
+
+14
+18
+Road-5
+1
+Andrew-Tate/3A/244.39708748467257/true
+368.0 272.0
+
+14
+30
+Road-6
+0
+476.0 236.0
+
+14
+45
+Road-8
+1
+Abdul-Rahman/1A/413.45000903686423/true
+367.0 170.0
+
+14
+55
+Road-9
+1
+Trevor-Joel/2A/326.39447161810693/true
+364.0 136.0
+
+14
+70
+Road-9
+1
+Syed-Mokhlesur-Rahman/3A/125.37650520224136/true
+485.0 132.0
+
+14
+62
+Road-9
+1
+Salman-Khan/2A/427.34299464861067/true
+315.0 102.0
+
+14
+90
+Road-13
+1
+Principal/Mastermind-School/125.34060336336454/true
+370.0 63.0
+
+14
+95
+Road-13
+1
+Principal/Mastermind-School-Senior/1313.319576025459/true
+469.0 63.0
+
+14
+100
+Road-13
+1
+Herfy/Herfy/1233.2880315420396/true
+558.0 60.0
+
+14
+54
+Road-9
+1
+Aliya-Khan/4A/123.27215688256655/true
+333.0 137.0
+
+3
+68
+Road-19
+2
+Tanvir-Hassan/4B/215.23301113724213/true
+Abir-Mahmood-Rifat/3B/343.2240428109426/true
+242.0 304.0
+
+1
+1
+Road-1
+1
+Runa-Laila/3A/212.9232679787496/true
+511.0 448.0
+
+1
+5
+Road-3
+1
+Tony-Stark/4A/123.95469088227566/true
+440.0 364.0
+
+1
+7
+Road-4
+2
+Bruce-Banner/3A/122.93139561139525/true
+MHR-NSU/3A/124.79987895320384/true
+421.0 339.0
+
+3
+87
+Road-27
+1
+Sadia-Ibnat-Isamoni/2A/357.88029774343534/true
+316.0 309.0

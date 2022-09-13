@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CSE-Electricity Management System:jar">
+    <output-path>$PROJECT_DIR$/</output-path>
+    <root id="archive" name="CSE-ELctricity.jar">
+      <element id="module-output" name="CSE-ELctricity" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../JavaFX/javafx-sdk-18.0.2/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../JavaFX/javafx-sdk-18.0.2/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../JavaFX/javafx-sdk-18.0.2/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../JavaFX/javafx-sdk-18.0.2/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../CSE-Electricity System/Email JARs/javax.mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../CSE-Electricity System/Email JARs/activation-jaf.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/../../../../JavaFX/javafx-sdk-18.0.2/bin" />
+    </root>
+  </artifact>
+</component>
